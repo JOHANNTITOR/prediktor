@@ -184,7 +184,7 @@ pip install -r requirements.txt
 Ejecutar la aplicación:
 
 ```bash
-streamlit run app.py
+streamlit run prediktor.py
 ```
 
 ---
@@ -203,14 +203,13 @@ joblib
 
 # 👨‍💻 Autor
 
-**Christian Neumann**
+**Juan Andrés Sánchez Dodero**
 
-Proyecto de Título
-
-Ingeniería en Informática
+Proyecto Desarrollo de Inteligencia Artificial orientado a Empresas (2026)
 
 ---
 
 # 📄 Licencia
 
 Este proyecto ha sido desarrollado con fines académicos y de investigación.
+Regulada mediante la ley Chilena de Protección de Datos.
